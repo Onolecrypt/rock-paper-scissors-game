@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(36, 34, 57);
+    color: white;
+    font-size: 20px;
+}
+.move-icon{
+    
+ height: 50px;
+
+}
+
+.move-button{
+cursor: pointer;  
+margin-right: 10px;
+border-radius: 60px;
+background-color: transparent;
+border: 3px solid white;
+width: 120px;
+height:120px
+
+}
+
+.game-title{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.score-p{
+    margin-top: 60px;
+}
+.moves-p{
+margin-top: 50px;
+}
+.result-p{
+font-size: 25px;
+margin-top: 60px;
+}
+.reset-score{
+font-size:15px ;
+padding: 8px 13px;
+cursor:pointer;
+border: none;
+}
