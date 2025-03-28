@@ -75,7 +75,7 @@
                 document.querySelector('.js-result')
                     .innerHTML= result;
                     document.querySelector('.js-moves')
-                    .innerHTML = `  You<img src="images/${pickedHand}-emoji.png "class="move-icon"><img src="images/${computerMove}-emoji.png"class="move-icon">Computer`
+                    .innerHTML = `  You<img src="${pickedHand}-emoji.png "class="move-icon"><img src="${computerMove}-emoji.png"class="move-icon">Computer`
                 
     
     }
